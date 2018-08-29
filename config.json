@@ -10,6 +10,11 @@
         "loginId": "1759247",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "somegenericexampledomain.com"
+        "cookiedomain": "somegenericexampledomain.com",
+        "player": {
+            "playback": {
+                "autoplay": true
+            }
+        }
     }
 }

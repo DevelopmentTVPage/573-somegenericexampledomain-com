@@ -1,0 +1,63 @@
+{
+    "title": "Sample Live Stream Title",
+    "description": "",
+    "referenceId": "TVP_LIVE_4134750",
+    "date_created": "1536616503",
+    "date_modified": "1536616503",
+    "tags": null,
+    "sourceId": "7",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165006884",
+    "loginId": "1759247",
+    "entityType": "1",
+    "titleTextEncoded": "Sample-Live-Stream-Title",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 0,
+    "settings": {
+        "destinations": [
+            {
+                "ip": "35.164.176.98",
+                "port": "1935",
+                "url": "rtmp:\/\/35.164.176.98\/staging-76396bf7bb12e3011dc2b8b85e60661a"
+            },
+            {
+                "ip": "54.200.178.66",
+                "port": "1935",
+                "url": "rtmp:\/\/54.200.178.66\/staging-76396bf7bb12e3011dc2b8b85e60661a"
+            }
+        ],
+        "provider": "TVP_LIVE",
+        "providerId": "4134750",
+        "environment": "staging",
+        "liveId": "76396bf7bb12e3011dc2b8b85e60661a",
+        "live_status": "LIVE_STARTED",
+        "live_quality": "1080",
+        "quality": null
+    },
+    "asset": {
+        "type": "mp4",
+        "type_stream": "live",
+        "sources": [],
+        "hlsUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/83a09dc3f34647379437664aa9404ffc\/index.m3u8",
+        "dashUrl": "https:\/\/3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com\/out\/v1\/66eea994fb824ec88ebcd2a65b97ae17\/index.mpd",
+        "live_status": "LIVE_STARTED",
+        "live_quality": "1080",
+        "status_url": "\/\/stage.tvpage.com\/api\/videos\/live\/status\/1759247\/165006884"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "metrics_statistics": null
+}
